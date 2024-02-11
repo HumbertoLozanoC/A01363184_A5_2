@@ -1,0 +1,2 @@
+Costo total: 165235.37000000002
+Tiempo de ejecucion: 6.005048751831055 milisegundos
